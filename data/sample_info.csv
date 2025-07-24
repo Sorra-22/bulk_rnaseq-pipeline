@@ -1,0 +1,5 @@
+sample_id,condition,replicate,fastq_file
+WT_1,WT,1,ERR458493.fastq.gz
+WT_2,WT,2,ERR458494.fastq.gz
+Mut_1,Mutant,1,ERR458500.fastq.gz
+Mut_2,Mutant,2,ERR458501.fastq.gz

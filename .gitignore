@@ -1,0 +1,48 @@
+# Data files (too large for GitHub)
+data/*.fastq.gz
+data/*.fastq
+data/*.fq
+data/*.fq.gz
+
+# Reference files (large)
+reference/*.fa
+reference/*.fasta
+reference/*.gtf
+reference/*.gff
+reference/*index*
+reference/*.ht2
+
+# Results (can be regenerated)
+results/
+*.bam
+*.sam
+*.bai
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
