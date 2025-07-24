@@ -63,4 +63,11 @@ rnaseq-pipeline/
 -Differential expression results
 -Publication-ready plots
 
+### Citattions
+- If you use this pipeline for learning, please cite:
+
+- [Your Name]. (2024). Educational RNA-seq Pipeline. GitHub. https://github.com/YOUR_USERNAME/rnaseq-pipeline
+
+### License
+- MIT License - See LICENSE file for details
 
