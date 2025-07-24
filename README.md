@@ -54,4 +54,13 @@ rnaseq-pipeline/
 - cd results/differential_expression
 - Rscript run_deseq2.R
 
+### Results
+-The pipeline generates:
+
+-MultiQC report with quality metrics
+-Alignment statistics
+-Gene expression count matrix
+-Differential expression results
+-Publication-ready plots
+
 
